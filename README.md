@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Drawphin
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A web app that allows you to create reprodicable, sharable diagrams
+
 
 ## Available Scripts
 
